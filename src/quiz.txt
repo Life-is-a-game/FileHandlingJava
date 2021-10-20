@@ -1,0 +1,43 @@
+Q: What is the capital of Iceland?
+A: Reykjavik ##
+A: Berlin
+A: Reykjanesbær
+
+Q: What is the currency used in Russia?
+A: Rupee
+A: Lira
+A: Yen
+A: Ruble ##
+
+Q: In what US state is the city Nashville?
+A: Ohio
+A: Wisconsin
+A: Tennessee ##
+A: Nebraska
+A: Alabama
+
+Q: What was the Turkish city of Istanbul referred to as before 1930?
+A: Altın şehri
+A: Constantinople ##
+A: Müreffeh şehir
+A: Görkemli
+
+Q: From what grain is the Japanese drink Sake made?
+A: Rice ##
+A: Wheat
+A: Barley
+
+Q: What does the latin Tempus mean in English?
+A: Timely
+A: Time ##
+A: Timespan
+A: Temporary
+
+Q: Who is the father of alchemy?
+A: Wei Boyang
+A: Khalid ibn Yazid
+A: Gilles de Rais
+A: Paracelsus
+A: Hermes Trismegistus ##
+
+//END OF FILE//
